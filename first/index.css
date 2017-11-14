@@ -1,0 +1,34 @@
+.hf {
+    color: white;
+    background-color: black;
+    width: auto;
+    height: 20vh;
+}
+
+.middle {
+    background-color: grey;
+    border: medium dashed green;
+    display: inline-block;
+}
+
+#div1 {
+    width: 15vw;
+    float: left;
+    height: 80vh;
+}
+
+#div2{
+    background-color: blue;
+    width: calc(100vw - 44%);
+    float: ;
+}
+
+#div3 {
+    width: 15vw;
+    float:right;
+    height: 80vh;
+}
+
+#bottom {
+    margin-top: 60vh;
+}

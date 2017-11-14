@@ -1,0 +1,9 @@
+div {
+    border: solid red;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /*This is for a circle*/
+}
+
