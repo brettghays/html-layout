@@ -1,5 +1,6 @@
 *, html {
     box-sizing: border-box;
+    margin: 0;
 }
 
 .top {
@@ -15,7 +16,7 @@
 }
 
 .sides {
-    height: 475px;
+    height: 550px;
     width: 13%;
     background: rgba(0,0,0,.07);
     margin: 0;
@@ -25,7 +26,7 @@
     height: 75px;
     width: auto;
     padding-left: 1000px;
-    margin-top: 400px;
+    margin-top: 475px;
     background: rgba(0,0,0,.74);
 }
 
