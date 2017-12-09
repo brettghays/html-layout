@@ -16,10 +16,15 @@
     border: 2px solid green;
     height: 28vh;
     padding: 7px;
+    padding-bottom: 7px;
+    
 }
 
 #top{
     border: 2px solid black;
+    display: flex;
+    align-items: center;
+
 }
 
 #middle {
@@ -28,6 +33,7 @@
 
 .firstRow {
     display: inline-block;
+    margin-bottom: 10px;
 }
 
 #blue {
@@ -36,6 +42,7 @@
     height: 125px;
     margin-top: 50px;
     margin-right: 50px;
+    
 }
 
 #green {
@@ -69,4 +76,10 @@
     color: blue;
     text-align: center;
     font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
 }
